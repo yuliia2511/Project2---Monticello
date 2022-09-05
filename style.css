@@ -12,7 +12,7 @@ body {
 #header {
     max-width: 100%;
     height: 800px;
-    background: url('/img/header-bg/tu-tram-pham-202263\ 1.jpeg');
+    background: url('img/header-bg/tu-tram-pham-202263\ 1.jpeg');
     background-size: cover;
     position: relative;
     z-index: 2;
@@ -31,7 +31,7 @@ body {
     bottom: 0;
     right: 0;
     z-index: 2;
-    background: url('/img/header-bg/Background.jpeg');
+    background: url('img/header-bg/Background.jpeg');
     opacity: 0.7;
     background-repeat: no-repeat;
     height: 853px;
